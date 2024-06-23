@@ -1,0 +1,19 @@
+.widget_categories ul li {
+    padding-bottom: 15px
+}
+
+;
+
+.widget_categories ul li a {
+    text-decoration: none
+}
+
+;
+
+.widget_categories ul li a:hover {
+    color: red;
+}
+
+/* .quick_button button {
+    max-width: 80%;
+} */
